@@ -1,0 +1,5 @@
+{
+  "fs_size_mb": 128,
+  "cpu_quota_ms": 50,
+  "mem_limit_mb": 256
+}
