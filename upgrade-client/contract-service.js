@@ -1,4 +1,5 @@
 // test commment 1
+// test comment 2
 const { HotPocketUserClient } = require('hotpocket-js-client');
 
 class ContractService {
